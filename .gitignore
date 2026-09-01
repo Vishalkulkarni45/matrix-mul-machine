@@ -1,0 +1,10 @@
+.toolchain/
+build/
+vectors/
+obj_dir/
+*.vvp
+*.vcd
+*.hex
+__pycache__/
+docs/
+spec/
